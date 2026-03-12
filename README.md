@@ -41,8 +41,6 @@ The following visualizations were used in this analysis:
 
 ## Key Insights
 
-* Sweetness (Brix) and Ripeness tend to show stronger relationships with orange quality.
-* Features like Size and Weight show weaker relationships with quality.
 * Visualization helps identify patterns and understand important factors affecting orange quality.
  
 * Size (cm)
