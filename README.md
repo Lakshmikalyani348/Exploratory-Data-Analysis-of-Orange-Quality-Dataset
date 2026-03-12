@@ -44,26 +44,26 @@ The following visualizations were used in this analysis:
 * Sweetness (Brix) and Ripeness tend to show stronger relationships with orange quality.
 * Features like Size and Weight show weaker relationships with quality.
 * Visualization helps identify patterns and understand important factors affecting orange quality.
-* 
+ 
 * Size (cm)
 Size increase ayina quality score sometimes same ga untundi. Kabatti size alone orange quality ni strong ga decide cheyyadu.
 
- Weight (g)
+ * Weight (g)
 Weight change ayina quality lo clear pattern kanipinchakapovachu. Idi weight quality ki strong factor kaakapovachu ani suggest chestundi.
  
- Brix (Sweetness)
+ * Brix (Sweetness)
 Sweetness ekkuva unna oranges lo quality score kuda ekkuva undachu. Idi sweetness quality ni influence cheyyachu ani indicate chestundi.
 
- pH (Acidity)
+ * pH (Acidity)
 Acidity level change ayina quality lo konni variations kanipinchachu. Moderate acidity better quality ki sambandham undachu.
 
- Softness (1-5)
+ * Softness (1-5)
 Softness level change ayite quality score kuda change ayye chance undi. Proper softness unna oranges better quality indicate cheyyachu.
 
- HarvestTime (days)
+ * HarvestTime (days)
 Harvest time different ga unna quality lo konni differences kanipinchachu. Correct harvest time better orange quality ki help cheyyachu.
 
- Ripeness (1-5)
+ * Ripeness (1-5)
 Ripeness increase ayite quality score kuda increase ayye tendency undachu. Fully ripened oranges generally higher quality ni indicate chestayi.
 
 ## Conclusion
